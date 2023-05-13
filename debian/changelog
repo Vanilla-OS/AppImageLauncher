@@ -1,0 +1,17 @@
+appimagelauncher (1.2.2.1) unstable; urgency=low
+
+  * Build for Vanilla OS 2.0.
+
+ -- Mateus Melchiades <matbme@duck.com>  Sat, 13 May 2023 19:12:00 -0300
+
+appimagelauncher (202211022349-stable-0f91801~ubuntu22.04.1) jammy; urgency=low
+
+  * Auto build.
+
+ -- TheAssassin <theassassin+lp@assassinate-you.net>  Wed, 02 Nov 2022 23:49:15 +0000
+
+appimagelauncher (1.2.2+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: #918523)
+
+ -- Scarlett Moore <sgmoore@kde.org>  Sat, 05 Jan 2019 16:14:31 +0000
